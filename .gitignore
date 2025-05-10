@@ -1,0 +1,6 @@
+camvid/
+pothole/
+runs/
+seg_train/
+yolov8n.pt
+yolov8s.pt
